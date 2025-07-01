@@ -4,12 +4,12 @@
 Email Me 👉 ✉️ **hailomasegede@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working at:** Grand Technology Solutions
-- 🌱 **I’m currently learning:** Enter your tech here
 - 👯 **I’m looking to collaborate on:** Software Development and Machine Learning/ Data Science Projects.
 - 📫 **How to reach me:** hailomasegede@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🔗 I am a Software Developer. 😊😊
+- 🌱 **Quick learner and fascinated to update my self to the latest tech stack.
 
 <!-- Snake Game Repo View -->
 

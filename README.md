@@ -1,20 +1,21 @@
-## Hi there 👋
+# 💫 Hi 👋, I'm Hailom Asegede
+**A passionate Software Developer || Reactjs, Nextjs, Nodejs
 
-<!--
-**hailer-MIT/hailer-MIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email Me 👉 ✉️ **hailomasegede@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working at:** Grand Technology Solutions
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Software Development and Machine Learning/ Data Science Projects.
+- 📫 **How to reach me:** hailomasegede@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 I am a Software Developer. 😊😊
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hailom-asegede) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hailomasegede@gmail.com) 

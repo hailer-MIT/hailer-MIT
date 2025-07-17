@@ -1,18 +1,48 @@
-# 💫 Hi 👋, I'm Hailom Asegede
-**A passionate Software Developer || Reactjs, Nextjs, Nodejs
+# 💫 Hi 👋, I'm Hailom Asegede  
+**A passionate Software Developer | Machine Learning & AI Enthusiast | ReactJS, NextJS, NodeJS**
 
-Email Me 👉 ✉️ **hailomasegede@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+🎯 I specialize in building intelligent, scalable systems — from real-time mobile apps to custom machine learning solutions.  
+📩 Email Me 👉 **hailomasegede@gmail.com** for collaborations, freelance ML projects, or AI research opportunities.
 
-- 🔭 **I’m currently working at:** Grand Technology Solutions
-- 👯 **I’m looking to collaborate on:** Software Development and Machine Learning/ Data Science Projects.
-- 📫 **How to reach me:** hailomasegede@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+---
 
-## 🔗 I am a Software Developer. 😊😊
-- 🌱 **Quick learner and fascinated to update my self to the latest tech stack.
+## 🚀 About Me
+- 🔭 **Currently working at:** Grand Technology Solutions  
+- 🤖 **Machine Learning Enthusiast:** Using AI to solve real-world problems — from agriculture to health to justice.  
+- 🧑‍💻 **Full-stack Developer:** Crafting robust, secure apps with React, Node.js, MongoDB, and more.  
+- 👯 **Collaborating on:** AI-powered applications, NLP projects, and scalable web platforms.  
+- 💬 Ask me about: CNNs, TensorFlow, OpenCV, React, Redux, or Express.  
+- ⚡ **Fun fact:** I train students in AI and web dev, and I love mentoring future builders.
+
+---
+
+## 🧠 Highlighted AI/ML Projects
+
+| Project | Summary |
+|--------|---------|
+| 🎯 **Plant Disease Detector** | End-to-end mobile app using CNN (98% accuracy) + Flutter + Django |
+| 🧑🏿‍🤝‍🧑🏽 **Bias-Corrected African Face Recognition** | Histogram equalization + OpenCV cascades for dark-skinned faces |
+| ✋ **Real-Time Sign Language Detector** | Object Detection API (SSD MobileNetV2) + OpenCV — mentored 30+ students |
+| 🧪 **Sustainability Sentiment Classifier** | Fine-tuned BERT model for eco-product feedback from Twitter |
+| 🧱 **Concrete Strength Predictor** | Regression (R² = 0.88) for civil engineering using Scikit-learn |
+| 🌊 **River Plastic Pollution Classifier** | Clustering & classification to identify top polluting rivers |
+
+---
+
+## 🛠️ Top React.js / MERN Stack Projects
+
+| Project | Tech Stack | Summary |
+|--------|------------|---------|
+| 🚀 **Hailer Promptia App** | Next.js 14, MongoDB, Google OAuth | AI prompt-sharing platform with secure user sessions |
+| 🛒 **Hailer E-commerce App** | MERN, Redux, Stripe | Full-featured e-commerce platform with secure payment flow |
+| 💼 **Grand Broker App** | MERN, JWT, Tailwind | Financial dashboard with protected routes and user roles |
+| 📦 **Inventory Management System** | MERN, Role-based Auth | Real-time inventory tracker with admin-user separation |
+| 📹 **YouTube Clone App** | React.js, RapidAPI, Material UI | Video content platform with search, category filters, and UI polish |
+
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hailom-asegede) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hailomasegede@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hailom-asegede) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hailomasegede@gmail.com)
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -28,22 +58,23 @@ Email Me 👉 ✉️ **hailomasegede@gmail.com** For Collaboration/Project or An
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hailer-MIT&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hailer-MIT&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hailer-MIT&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<!-- 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hailer-MIT&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hailer-MIT&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+-->
+
 [![](https://visitcount.itsvg.in/api?id=hailer-MIT&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

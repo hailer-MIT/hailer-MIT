@@ -16,11 +16,11 @@
 
 ---
 
-## 🧠 Highlighted AI/ML Projects
+## 🧠 Highlighted AI/ML Projects - this are private repositories.
 
 | Project | Summary |
 |--------|---------|
-| 🎯 **Plant Disease Detector** | End-to-end mobile app using CNN (98% accuracy) + Flutter + Django |
+| 🎯 **Automated Plant Disease Detection using CNN** | End-to-end mobile app using CNN (98% accuracy) + Flutter + Django |
 | 🧑🏿‍🤝‍🧑🏽 **Bias-Corrected African Face Recognition** | Histogram equalization + OpenCV cascades for dark-skinned faces |
 | ✋ **Real-Time Sign Language Detector** | Object Detection API (SSD MobileNetV2) + OpenCV — mentored 30+ students |
 | 🧪 **Sustainability Sentiment Classifier** | Fine-tuned BERT model for eco-product feedback from Twitter |
